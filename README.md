@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Learning javascript**
 
-- 🌱 I’m currently learning **JAVASCRIPT,HTML,CSS**
+- 🌱 I’m currently learning **how to put javascipt into my websites**
 
 - 📫 How to reach me **swierzewski.przemyslaw@gmail.com**
 
