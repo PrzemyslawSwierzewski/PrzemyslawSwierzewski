@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Learning javascript**
+- 🔭 I’m currently working on **Learning React**
 
-- 🌱 I’m currently learning **how to put javascipt into my websites**
+- 🌱 I’m currently learning **how to build a react app**
 
 - 📫 How to reach me **swierzewski.przemyslaw@gmail.com**
 
