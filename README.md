@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Learning React**
+- 🔭 I’m currently working on **Back-End career Path**
 
-- 🌱 I’m currently learning **how to build a react app**
+- 🌱 I’m currently learning **Back-End career Path course**
 
 - 📫 How to reach me **swierzewski.przemyslaw@gmail.com**
 
